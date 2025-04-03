@@ -1,0 +1,21 @@
+<svg width="26" height="25" viewBox="0 0 26 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-41.5924" y="-42" width="109.224" height="109"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(21px);clip-path:url(#bgblur_0_69_1141_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_i_69_1141)" data-figma-bg-blur-radius="42">
+<ellipse cx="13.0198" cy="12.5" rx="12.6122" ry="12.5" fill="#0C96E2"/>
+</g>
+<path d="M15.1217 10.4167C15.9579 10.4167 16.7599 10.7459 17.3512 11.332C17.9425 11.918 18.2747 12.7129 18.2747 13.5417V17.1875H16.1727V13.5417C16.1727 13.2654 16.062 13.0005 15.8649 12.8051C15.6678 12.6098 15.4004 12.5 15.1217 12.5C14.8429 12.5 14.5756 12.6098 14.3785 12.8051C14.1814 13.0005 14.0707 13.2654 14.0707 13.5417V17.1875H11.9686V13.5417C11.9686 12.7129 12.3008 11.918 12.8921 11.332C13.4834 10.7459 14.2854 10.4167 15.1217 10.4167Z" fill="white"/>
+<path d="M9.8668 10.9375H7.76477V17.1875H9.8668V10.9375Z" fill="white"/>
+<path d="M8.81579 9.37514C9.39625 9.37514 9.8668 8.90877 9.8668 8.33348C9.8668 7.75818 9.39625 7.29181 8.81579 7.29181C8.23533 7.29181 7.76477 7.75818 7.76477 8.33348C7.76477 8.90877 8.23533 9.37514 8.81579 9.37514Z" fill="white"/>
+<defs>
+<filter id="filter0_i_69_1141" x="-41.5924" y="-42" width="109.224" height="109" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-5" dy="-5"/>
+<feGaussianBlur stdDeviation="125"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.02 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_69_1141"/>
+</filter>
+<clipPath id="bgblur_0_69_1141_clip_path" transform="translate(41.5924 42)"><ellipse cx="13.0198" cy="12.5" rx="12.6122" ry="12.5"/>
+</clipPath></defs>
+</svg>
