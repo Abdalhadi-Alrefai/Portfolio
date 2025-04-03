@@ -3,7 +3,6 @@ import Icons from "./Icons";
 import { motion } from "framer-motion";
 import { ThemeContext } from "../../../pages/Root";
 
-
 const Hero = () => {
   const { theme } = useContext(ThemeContext);
   const iconItems = [
@@ -80,7 +79,7 @@ const Hero = () => {
           >
             {displaytitle}
             <motion.span
-              className="ml-5 h-[40px] w-[3px] inline-block bg-myPrimary"
+              className="ml-5 h-[40px] max-md:h-[30px] max-sm:h-[25px] w-[3px] inline-block bg-myPrimary"
               animate={{ opacity: [0, 1, 0] }}
               transition={{ repeat: Infinity, duration: 0.8 }}
             />
