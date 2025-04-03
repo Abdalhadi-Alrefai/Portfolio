@@ -162,7 +162,7 @@ const ProjectSlider = () => {
                     >
                       <motion.img
                         className="cursor-pointer"
-                        src="/assets/img/Icon.svg"
+                        src="./assets/img/Icon.svg"
                         alt="Icon"
                         whileHover={{ scale: 1.1 }}
                         whileTap={{ scale: 0.9 }}
