@@ -5,17 +5,17 @@ const Contact = () => {
   const { theme } = useContext(ThemeContext);
   const info = [
     {
-      icon: "/assets/img/call.svg",
+      icon: "./assets/img/call.svg",
       title: "Call me",
       description: "+963947075253",
     },
     {
-      icon: "/assets/img/email.svg",
+      icon: "./assets/img/email.svg",
       title: "Email me",
       description: "abdalhadialrefai2002@gmail.com",
     },
     {
-      icon: "/assets/img/location.svg",
+      icon: "./assets/img/location.svg",
       title: "Address",
       description: "Damascus,syria",
     },
