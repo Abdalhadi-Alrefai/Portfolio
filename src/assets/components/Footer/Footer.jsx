@@ -7,19 +7,19 @@ const Footer = () => {
   const {theme} = useContext(ThemeContext)
   const icons = [
     {
-      icon : "/assets/img/facebook-1.svg",
+      icon : "./assets/img/facebook-1.svg",
       url: "https://www.facebook.com/share/1AHtJstGpA/",
     },
     {
-      icon : "/assets/img/twitter-1.svg",
+      icon : "./assets/img/twitter-1.svg",
       url: "https://twitter.com",
     },
     {
-      icon : "/assets/img/linkedin-1.svg",
+      icon : "./assets/img/linkedin-1.svg",
       url: "https://www.linkedin.com/in/abdalhadi-alrefai-703a23276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
     {
-      icon : "/assets/img/instagram-1.svg",
+      icon : "./assets/img/instagram-1.svg",
       url: "https://www.instagram.com/abdalhadi_alrefai?igsh=MTYxem81OTIwNTB4aw==",
     },
   ]
