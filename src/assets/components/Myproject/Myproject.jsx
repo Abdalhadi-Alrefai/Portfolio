@@ -164,7 +164,7 @@ const Myproject = () => {
               className="cursor-pointer"
             >
               <a href={project.href} target="_blank">
-                <img src="/assets/img/Icon.svg" alt="" />
+                <img src="./assets/img/Icon.svg" alt="" />
               </a>
             </motion.div>
           </div>
