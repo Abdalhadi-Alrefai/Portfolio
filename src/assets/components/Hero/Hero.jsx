@@ -107,7 +107,7 @@ const Hero = () => {
             whileTap={{ scale: 0.9 }}
             className="mt-30 ml-5 bg-myPrimary text-secondary pt-14 pb-15 pr-32 pl-34 rounded-lg cursor-pointer"
           >
-            <a href="/assets/bdf/My_CV.pdf" download="My_CV.pdf">
+            <a href="./assets/bdf/My_CV.pdf" download="My_CV.pdf">
               Download Cv
             </a>
           </motion.button>
