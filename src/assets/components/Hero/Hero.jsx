@@ -3,6 +3,7 @@ import Icons from "./Icons";
 import { motion } from "framer-motion";
 import { ThemeContext } from "../../../pages/Root";
 
+
 const Hero = () => {
   const { theme } = useContext(ThemeContext);
   const iconItems = [

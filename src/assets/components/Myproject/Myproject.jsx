@@ -15,7 +15,7 @@ const Myproject = () => {
   const projects = [
     {
       id: 0,
-      img: "/assets/img/edupress.webp",
+      img: "./assets/img/edupress.webp",
       name: "edu-press",
       lang: "Html-Css3-Vanilla javscript",
       date: "23/8/2024",
@@ -29,7 +29,7 @@ const Myproject = () => {
     },
     {
       id: 1,
-      img: "/assets/img/products.webp",
+      img: "./assets/img/products.webp",
       name: "Products",
       lang: "Html-Css3-Vanilla javscript",
       date: "20/12/2024",
@@ -43,7 +43,7 @@ const Myproject = () => {
     },
     {
       id: 2,
-      img: "/assets/img/posts.webp",
+      img: "./assets/img/posts.webp",
       name: "posts",
       lang: "Html-Css3-Vanilla javscript",
       date: "5/1/2025",
@@ -57,7 +57,7 @@ const Myproject = () => {
     },
     {
       id: 3,
-      img: "/assets/img/Blogs.webp",
+      img: "./assets/img/Blogs.webp",
       name: "Blogs",
       lang: "Html-Css3-Vanilla React",
       date: "15/1/2025",
@@ -71,7 +71,7 @@ const Myproject = () => {
     },
     {
       id: 4,
-      img: "/assets/img/books.webp",
+      img: "./assets/img/books.webp",
       name: "Books-Project",
       lang: "Html-Css3-React",
       date: "19/2/2025",
@@ -85,7 +85,7 @@ const Myproject = () => {
     },
     {
       id: 5,
-      img: "/assets/img/dashboard.webp",
+      img: "./assets/img/dashboard.webp",
       name: "dashboard",
       lang: "Html-Css3-React",
       date: "10/3/2025",
@@ -138,7 +138,7 @@ const Myproject = () => {
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
               className="opacity-0 group-hover:opacity-100"
-              src="/assets/img/Full_alt.svg"
+              src="./assets/img/Full_alt.svg"
               alt="Full_alt"
             />
             <a href={project.href} target="_blank">
@@ -146,7 +146,7 @@ const Myproject = () => {
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.9 }}
                 className="opacity-0 group-hover:opacity-100"
-                src="/assets/img/showDemo.png"
+                src="./assets/img/showDemo.png"
                 alt="showDemo"
               />
             </a>
